@@ -35,7 +35,6 @@
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
-            this.label6 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // label9
@@ -98,20 +97,11 @@
             this.label5.TabIndex = 30;
             this.label5.Text = "DEVELOPERS";
             // 
-            // label6
-            // 
-            this.label6.Location = new System.Drawing.Point(17, 77);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(252, 50);
-            this.label6.TabIndex = 31;
-            this.label6.Text = "Ian Karlo Dela Cruz\r\nGian Windsor Jimenez\r\nPatricia Marie Agunos";
-            // 
             // frmAbout
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(259, 342);
-            this.Controls.Add(this.label6);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
@@ -136,6 +126,5 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label5;
-        private System.Windows.Forms.Label label6;
     }
 }

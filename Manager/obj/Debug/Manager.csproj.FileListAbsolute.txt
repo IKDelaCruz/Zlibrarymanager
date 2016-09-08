@@ -28,3 +28,18 @@ C:\Users\ian.delacruz.JAKAGROUP\Downloads\Manager V2\Manager\Manager\obj\Debug\M
 C:\Users\ian.delacruz.JAKAGROUP\Downloads\Manager V2\Manager\Manager\obj\Debug\Manager.frmRegister.resources
 C:\Users\ian.delacruz.JAKAGROUP\Downloads\Manager V2\Manager\Manager\obj\Debug\Manager.Properties.Resources.resources
 C:\Users\ian.delacruz.JAKAGROUP\Downloads\Manager V2\Manager\Manager\obj\Debug\Manager.csproj.GenerateResource.Cache
+F:\GIT\LibraryManager\librarymanager\Manager\obj\Debug\Manager.exe
+F:\GIT\LibraryManager\librarymanager\Manager\obj\Debug\Manager.pdb
+F:\GIT\LibraryManager\librarymanager\Manager\bin\Debug\Manager.exe
+F:\GIT\LibraryManager\librarymanager\Manager\bin\Debug\Manager.pdb
+F:\GIT\LibraryManager\librarymanager\Manager\bin\Debug\Borrower.dll
+F:\GIT\LibraryManager\librarymanager\Manager\bin\Debug\Newtonsoft.Json.dll
+F:\GIT\LibraryManager\librarymanager\Manager\bin\Debug\Borrower.pdb
+F:\GIT\LibraryManager\librarymanager\Manager\bin\Debug\Newtonsoft.Json.xml
+F:\GIT\LibraryManager\librarymanager\Manager\obj\Debug\Manager.csprojResolveAssemblyReference.cache
+F:\GIT\LibraryManager\librarymanager\Manager\obj\Debug\Manager.frmAbout.resources
+F:\GIT\LibraryManager\librarymanager\Manager\obj\Debug\Manager.frmLogin.resources
+F:\GIT\LibraryManager\librarymanager\Manager\obj\Debug\Manager.frmMain.resources
+F:\GIT\LibraryManager\librarymanager\Manager\obj\Debug\Manager.frmRegister.resources
+F:\GIT\LibraryManager\librarymanager\Manager\obj\Debug\Manager.Properties.Resources.resources
+F:\GIT\LibraryManager\librarymanager\Manager\obj\Debug\Manager.csproj.GenerateResource.Cache
