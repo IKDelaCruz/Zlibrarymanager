@@ -1,0 +1,13 @@
+F:\Codes\Lib\Manager\Borrower\bin\Debug\Borrower.dll
+F:\Codes\Lib\Manager\Borrower\bin\Debug\Borrower.pdb
+F:\Codes\Lib\Manager\Borrower\obj\Debug\Borrower.dll
+F:\Codes\Lib\Manager\Borrower\obj\Debug\Borrower.pdb
+F:\Codes\Lib\Manager\Borrower\bin\Debug\Newtonsoft.Json.dll
+F:\Codes\Lib\Manager\Borrower\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ian.delacruz.JAKAGROUP\Downloads\Manager V2\Manager\Borrower\bin\Debug\Borrower.dll
+C:\Users\ian.delacruz.JAKAGROUP\Downloads\Manager V2\Manager\Borrower\bin\Debug\Borrower.pdb
+C:\Users\ian.delacruz.JAKAGROUP\Downloads\Manager V2\Manager\Borrower\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ian.delacruz.JAKAGROUP\Downloads\Manager V2\Manager\Borrower\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ian.delacruz.JAKAGROUP\Downloads\Manager V2\Manager\Borrower\obj\Debug\Borrower.csprojResolveAssemblyReference.cache
+C:\Users\ian.delacruz.JAKAGROUP\Downloads\Manager V2\Manager\Borrower\obj\Debug\Borrower.dll
+C:\Users\ian.delacruz.JAKAGROUP\Downloads\Manager V2\Manager\Borrower\obj\Debug\Borrower.pdb

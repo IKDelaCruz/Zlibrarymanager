@@ -1,0 +1,30 @@
+F:\Codes\Lib\Manager\Manager\bin\Debug\Manager.exe
+F:\Codes\Lib\Manager\Manager\bin\Debug\Manager.pdb
+F:\Codes\Lib\Manager\Manager\obj\Debug\Manager.csprojResolveAssemblyReference.cache
+F:\Codes\Lib\Manager\Manager\obj\Debug\Manager.Properties.Resources.resources
+F:\Codes\Lib\Manager\Manager\obj\Debug\Manager.csproj.GenerateResource.Cache
+F:\Codes\Lib\Manager\Manager\obj\Debug\Manager.exe
+F:\Codes\Lib\Manager\Manager\obj\Debug\Manager.pdb
+F:\Codes\Lib\Manager\Manager\bin\Debug\Borrower.dll
+F:\Codes\Lib\Manager\Manager\bin\Debug\Borrower.pdb
+F:\Codes\Lib\Manager\Manager\obj\Debug\Manager.frmMain.resources
+F:\Codes\Lib\Manager\Manager\obj\Debug\Manager.frmLogin.resources
+F:\Codes\Lib\Manager\Manager\obj\Debug\Manager.frmRegister.resources
+F:\Codes\Lib\Manager\Manager\bin\Debug\Newtonsoft.Json.dll
+F:\Codes\Lib\Manager\Manager\bin\Debug\Newtonsoft.Json.xml
+F:\Codes\Lib\Manager\Manager\obj\Debug\Manager.frmAbout.resources
+C:\Users\ian.delacruz.JAKAGROUP\Downloads\Manager V2\Manager\Manager\obj\Debug\Manager.exe
+C:\Users\ian.delacruz.JAKAGROUP\Downloads\Manager V2\Manager\Manager\obj\Debug\Manager.pdb
+C:\Users\ian.delacruz.JAKAGROUP\Downloads\Manager V2\Manager\Manager\bin\Debug\Manager.exe
+C:\Users\ian.delacruz.JAKAGROUP\Downloads\Manager V2\Manager\Manager\bin\Debug\Manager.pdb
+C:\Users\ian.delacruz.JAKAGROUP\Downloads\Manager V2\Manager\Manager\bin\Debug\Borrower.dll
+C:\Users\ian.delacruz.JAKAGROUP\Downloads\Manager V2\Manager\Manager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ian.delacruz.JAKAGROUP\Downloads\Manager V2\Manager\Manager\bin\Debug\Borrower.pdb
+C:\Users\ian.delacruz.JAKAGROUP\Downloads\Manager V2\Manager\Manager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ian.delacruz.JAKAGROUP\Downloads\Manager V2\Manager\Manager\obj\Debug\Manager.csprojResolveAssemblyReference.cache
+C:\Users\ian.delacruz.JAKAGROUP\Downloads\Manager V2\Manager\Manager\obj\Debug\Manager.frmAbout.resources
+C:\Users\ian.delacruz.JAKAGROUP\Downloads\Manager V2\Manager\Manager\obj\Debug\Manager.frmLogin.resources
+C:\Users\ian.delacruz.JAKAGROUP\Downloads\Manager V2\Manager\Manager\obj\Debug\Manager.frmMain.resources
+C:\Users\ian.delacruz.JAKAGROUP\Downloads\Manager V2\Manager\Manager\obj\Debug\Manager.frmRegister.resources
+C:\Users\ian.delacruz.JAKAGROUP\Downloads\Manager V2\Manager\Manager\obj\Debug\Manager.Properties.Resources.resources
+C:\Users\ian.delacruz.JAKAGROUP\Downloads\Manager V2\Manager\Manager\obj\Debug\Manager.csproj.GenerateResource.Cache
