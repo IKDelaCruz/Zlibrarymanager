@@ -11,3 +11,10 @@ C:\Users\ian.delacruz.JAKAGROUP\Downloads\Manager V2\Manager\Borrower\bin\Debug\
 C:\Users\ian.delacruz.JAKAGROUP\Downloads\Manager V2\Manager\Borrower\obj\Debug\Borrower.csprojResolveAssemblyReference.cache
 C:\Users\ian.delacruz.JAKAGROUP\Downloads\Manager V2\Manager\Borrower\obj\Debug\Borrower.dll
 C:\Users\ian.delacruz.JAKAGROUP\Downloads\Manager V2\Manager\Borrower\obj\Debug\Borrower.pdb
+F:\GIT\LibraryManager\librarymanager\Borrower\bin\Debug\Borrower.dll
+F:\GIT\LibraryManager\librarymanager\Borrower\bin\Debug\Borrower.pdb
+F:\GIT\LibraryManager\librarymanager\Borrower\bin\Debug\Newtonsoft.Json.dll
+F:\GIT\LibraryManager\librarymanager\Borrower\bin\Debug\Newtonsoft.Json.xml
+F:\GIT\LibraryManager\librarymanager\Borrower\obj\Debug\Borrower.csprojResolveAssemblyReference.cache
+F:\GIT\LibraryManager\librarymanager\Borrower\obj\Debug\Borrower.dll
+F:\GIT\LibraryManager\librarymanager\Borrower\obj\Debug\Borrower.pdb

@@ -39,11 +39,11 @@ namespace BorrowerLibrary
         public void InitializeBookList()
         {
             bookList = new List<Book>();
-            bookList.Add(new Book { Id = 1, Type = BookType.Circulation, Title = "Title 1 - Circulation", Status = BookStatus.Available, BorrowerId = 0, Due = DateTime.MinValue });
-            bookList.Add(new Book { Id = 2, Type = BookType.Circulation, Title = "Title 2 - Circulation", Status = BookStatus.Available, BorrowerId = 0, Due = DateTime.MinValue });
-            bookList.Add(new Book { Id = 3, Type = BookType.Circulation, Title = "Title 3 - Circulation", Status = BookStatus.Available, BorrowerId = 0, Due = DateTime.MinValue });
-            bookList.Add(new Book { Id = 4, Type = BookType.Circulation, Title = "Title 4 - Circulation", Status = BookStatus.Available, BorrowerId = 0, Due = DateTime.MinValue });
-            bookList.Add(new Book { Id = 5, Type = BookType.Circulation, Title = "Title 5 - Circulation", Status = BookStatus.Available, BorrowerId = 0, Due = DateTime.MinValue });
+            bookList.Add(new Book { Id = 1, Type = BookType.Circulation, Title = "Title 1 - Circ", Status = BookStatus.Available, BorrowerId = 0, Due = DateTime.MinValue });
+            bookList.Add(new Book { Id = 2, Type = BookType.Circulation, Title = "Title 2 - Circ", Status = BookStatus.Available, BorrowerId = 0, Due = DateTime.MinValue });
+            bookList.Add(new Book { Id = 3, Type = BookType.Circulation, Title = "Title 3 - Circ", Status = BookStatus.Available, BorrowerId = 0, Due = DateTime.MinValue });
+            bookList.Add(new Book { Id = 4, Type = BookType.Circulation, Title = "Title 4 - Circ", Status = BookStatus.Available, BorrowerId = 0, Due = DateTime.MinValue });
+            bookList.Add(new Book { Id = 5, Type = BookType.Circulation, Title = "Title 5 - Circ", Status = BookStatus.Available, BorrowerId = 0, Due = DateTime.MinValue });
 
             bookList.Add(new Book { Id = 6, Type = BookType.Fiction, Title = "Title 1 - Fiction", Status = BookStatus.Available, BorrowerId = 0, Due = DateTime.MinValue });
             bookList.Add(new Book { Id = 7, Type = BookType.Fiction, Title = "Title 2 - Fiction", Status = BookStatus.Available, BorrowerId = 0, Due = DateTime.MinValue });
