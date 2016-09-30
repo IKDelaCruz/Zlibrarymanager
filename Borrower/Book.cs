@@ -45,11 +45,11 @@ namespace BorrowerLibrary
             bookList.Add(new Book { Id = 4, Type = BookType.Circulation, Title = "Title 4 - Circ", Status = BookStatus.Available, BorrowerId = 0, Due = DateTime.MinValue });
             bookList.Add(new Book { Id = 5, Type = BookType.Circulation, Title = "Title 5 - Circ", Status = BookStatus.Available, BorrowerId = 0, Due = DateTime.MinValue });
 
-            bookList.Add(new Book { Id = 6, Type = BookType.Fiction, Title = "Title 1 - Fiction", Status = BookStatus.Available, BorrowerId = 0, Due = DateTime.MinValue });
-            bookList.Add(new Book { Id = 7, Type = BookType.Fiction, Title = "Title 2 - Fiction", Status = BookStatus.Available, BorrowerId = 0, Due = DateTime.MinValue });
-            bookList.Add(new Book { Id = 8, Type = BookType.Fiction, Title = "Title 3 - Fiction", Status = BookStatus.Available, BorrowerId = 0, Due = DateTime.MinValue });
-            bookList.Add(new Book { Id = 9, Type = BookType.Fiction, Title = "Title 4 - Fiction", Status = BookStatus.Available, BorrowerId = 0, Due = DateTime.MinValue });
-            bookList.Add(new Book { Id = 10, Type = BookType.Fiction, Title = "Title 5 - Fiction", Status = BookStatus.Available, BorrowerId = 0, Due = DateTime.MinValue });
+            bookList.Add(new Book { Id = 6, Type = BookType.Fiction, Title = "Title 1 - F", Status = BookStatus.Available, BorrowerId = 0, Due = DateTime.MinValue });
+            bookList.Add(new Book { Id = 7, Type = BookType.Fiction, Title = "Title 2 - F", Status = BookStatus.Available, BorrowerId = 0, Due = DateTime.MinValue });
+            bookList.Add(new Book { Id = 8, Type = BookType.Fiction, Title = "Title 3 - F", Status = BookStatus.Available, BorrowerId = 0, Due = DateTime.MinValue });
+            bookList.Add(new Book { Id = 9, Type = BookType.Fiction, Title = "Title 4 - F", Status = BookStatus.Available, BorrowerId = 0, Due = DateTime.MinValue });
+            bookList.Add(new Book { Id = 10, Type = BookType.Fiction, Title = "Title 5 - F", Status = BookStatus.Available, BorrowerId = 0, Due = DateTime.MinValue });
 
             bookList.Add(new Book { Id = 11, Type = BookType.Filipiniana, Title = "Title 1 - Filipiniana", Status = BookStatus.Available, BorrowerId = 0, Due = DateTime.MinValue });
             bookList.Add(new Book { Id = 12, Type = BookType.Filipiniana, Title = "Title 2 - Filipiniana", Status = BookStatus.Available, BorrowerId = 0, Due = DateTime.MinValue });
